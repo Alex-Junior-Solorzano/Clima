@@ -13,6 +13,7 @@
  - React
  - Netlify
  - HTML CSS
+ - WeatherApi
 
 ## Live Demo
 
