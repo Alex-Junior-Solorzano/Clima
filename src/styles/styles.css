@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-align: center;
+}
+
+.logo{
+    height: 70%;
+    width: 80px;
+    margin: 5px 5px 5px 5px;
+    align-items: flex-start;
+}
