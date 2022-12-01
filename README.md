@@ -25,7 +25,7 @@
 
  ### Setup
  
-  -Clone this repo using `git clone https://github.com/Alex-Junior-Solorzano/todo`
+  -Clone this repo using `git clone https://github.com/Alex-Junior-Solorzano/Clima`
 
 
  ### Comands
